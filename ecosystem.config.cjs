@@ -1,8 +1,8 @@
 module.exports = {
   apps: [
     {
-      name: "gemini-proxy",
-      cwd: "/Users/VanAnh/WorkSpace/Personal/gemini-proxy",
+      name: "antigravity-proxy",
+      cwd: "/Users/VanAnh/WorkSpace/Personal/antigravity-proxy",
       script: "dist/index.js",
       interpreter: "/Users/VanAnh/.nvm/versions/node/v24.11.1/bin/node",
       autorestart: true,
